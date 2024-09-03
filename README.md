@@ -185,7 +185,8 @@ Berikut adalah fungsi dari masing-masing command line;
 
 44. isof: Perintah tidak dikenal; mungkin salah ketik dari lsblk atau df -T.
 
-![Screenshot from 2024-09-04 00-50-57](https://github.com/user-attachments/assets/be92dcff-bf98-4173-b324-37ade4cda88d)
+
+![Screenshot from 2024-09-04 03-24-08](https://github.com/user-attachments/assets/b39be66e-38a0-4d62-afa5-1cabd38e1d9d)
 
 45. chattr: Mengubah atribut file sistem pada Linux.
 
